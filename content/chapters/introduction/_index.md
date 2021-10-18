@@ -13,3 +13,7 @@ Slowly, this internal motivation monologue brings my limbs out of their stasis. 
 How did I get here? How is it that a black belt with a pretty reasonable time in the half marathon set just eight years ago has to have a word with himself in order to climb the stairs at the end of the day? And how will I react when I'm cured of this disease and then struck down again with another, perhaps equally as debilitating?
 
 This book is about a life milestoned by disease. A blessed life, with loving parents and, eventually, a wonderful family of my own, and a great education and fantastic job. But a life that has been pecked at by disease, worn down and damaged. And then, finally, a life complete, unimprovably good in every way.
+
+## TOC (I will obviously move this, it's for reference)
+
+* 
