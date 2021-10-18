@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chapter1 on #standardillnesscommentary</title>
+    <title>Chapter 1 on #standardillnesscommentary</title>
     <link>http://example.org/chapters/chapter1/</link>
-    <description>Recent content in Chapter1 on #standardillnesscommentary</description>
+    <description>Recent content in Chapter 1 on #standardillnesscommentary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Oct 2021 16:17:22 +0100</lastBuildDate><atom:link href="http://example.org/chapters/chapter1/index.xml" rel="self" type="application/rss+xml" />
