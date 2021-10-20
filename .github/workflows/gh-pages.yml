@@ -19,6 +19,8 @@ jobs:
 
       - name: npm dependencies
         run: npm install
+
+        name: gulp dependencies
         run: npx gulp default
 
       - name: Setup Hugo
