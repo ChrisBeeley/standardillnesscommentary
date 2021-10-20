@@ -20,6 +20,9 @@ jobs:
       - name: npm dependencies
         run: npm install
 
+      - name: node-sass
+        run: npm install node-sass --force
+
       - name: gulp dependencies
         run: npx gulp default
 
