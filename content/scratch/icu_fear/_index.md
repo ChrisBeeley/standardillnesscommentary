@@ -1,7 +1,7 @@
 ---
 title: "ICU_fear"
 date: 2022-01-28T13:17:35Z
-draft: true
+draft: false
 ---
 
 ## Fear of what happens in ICU
