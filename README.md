@@ -4,6 +4,8 @@ This is a book all about my experiences with bowel and liver disease, and bowel 
 
 At the time of writing it is *very* rough, I'm just trying to get some raw material down ready to be tidied up into an actual book at a later stage.
 
+[Read the current draft](https://chrisbeeley.github.io/standardillnesscommentary/).
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
